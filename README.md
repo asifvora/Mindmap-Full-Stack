@@ -38,8 +38,6 @@
 [**Senior Frontend Developer**](senior.png?raw=true) (image)
 
 
-## Recommendations
- *This is a mindmap featured repo by Hemant Joshi follow me on github.* @8bithemant
  
  
  1.
@@ -49,11 +47,9 @@
 >I will suggest you to make a todo list with all the tasks you got to do and work on them one by one and fork this repo to make sure you have your own mindmap of developer.
 
 3.
->Thank you and if this was helpful share it and make sure you star and follow me on github and twitter.
+>Thank you and if this was helpful scroll below and check for original repo and feel free to star and fork them.
 
->>Github: https://github.com/8bithemant
 
->>Twitter: https://twitter.com/8bithemant
 
 
 
