@@ -76,4 +76,14 @@
 
 #Thank You Beautiful People.
 
+#License
+
+This content is distributed under CCA v3 license: https://creativecommons.org/licenses/by/3.0/deed.en (added a note to the original repo).
+
+
+###Original Frontend Mindmap
+
+Github Repo : https://github.com/ivan-kleshnin/frontend-mindmaps
+
+GitHub User (Frontend By) : https://github.com/ivan-kleshnin
 
