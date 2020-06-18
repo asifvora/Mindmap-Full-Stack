@@ -1,6 +1,9 @@
+#This is a collection of MindMap to Become a FullStack Developer And Specialised For Front-End Developer;
+
+`Scroll Down For The Original Repository Posted By  adam-golab and ivan-kleshnin `
+
 # Mind Map For Full Stack/ Front End Developers In 2020 By Hemant (Feel Free To Follow And Star Me on Github)
  
-*Note: work in progress...*
 
 `Please ★ this repo to show you care about the further updates.`
 
@@ -81,9 +84,20 @@
 This content is distributed under CCA v3 license: https://creativecommons.org/licenses/by/3.0/deed.en (added a note to the original repo).
 
 
-###Original Frontend Mindmap
+###Original Frontend Mindmap.
 
 Github Repo : https://github.com/ivan-kleshnin/frontend-mindmaps
 
 GitHub User (Frontend By) : https://github.com/ivan-kleshnin
+
+###Original FullStack Mindmap.
+
+
+Github Repo: https://github.com/adam-golab/react-developer-roadmap
+
+GitHub User (Full Stack By) : ivan-kleshnin
+
+
+##Note
+This repo is not to reflect copying of content , this is created to help my friends and me in collection of best MindMaps of Front-End And Full Stack.
 
